@@ -1,7 +1,7 @@
-# Analista de dados
+# Analista de dados com IA
 
 ## 📒 Descrição
-Este projeto é a criação de um analista de dados virtual através de IA, para analise de uma tabela de gastos mensais, claro que você pode criar seus assistentes persalisando de acordo com suas necessidades.
+Este projeto é a criação de um analista de dados virtual através de IA, para analise de uma tabela de gastos mensais, claro que você pode criar seus assistentes personalizando de acordo com suas necessidades.
 
 ## 🤖 Tecnologias Utilizadas
  -  Google AIStudio
