@@ -5,6 +5,7 @@ Este projeto é a criação de um analista de dados virtual através de IA, para
 
 ## 🤖 Tecnologias Utilizadas
  -  Google AIStudio
+ -  Base de dados para a analise - https://docs.google.com/spreadsheets/d/1FuqOsGRLY9_vN-LI1hQDBWPtWp1i1Co53oesjhdlCaQ/edit?usp=sharing
 
 ## 🧐 Processo de Criação
 
