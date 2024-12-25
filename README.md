@@ -77,5 +77,5 @@ Portanto, os itens "Restaurante" e "Salão de Beleza" foram os que tiveram o men
 
 ## Vou colocar só dois exemplos de resultados para não ficar muito extenso, pois apartir desses exemplo já s percebe o poder dessas ferramentas para a analis de dados.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A utilização de IA nos dias atuais transforma diversos setores, desde a automação industrial até a personalização de serviços. Ela facilita a análise de grandes volumes de dados, otimizando processos e promovendo eficiência. No entanto, também levanta questões éticas e de privacidade que precisam ser cuidadosamente abordadas, esse é um dos problemas que acho muito relevante pois apesar delas nos empoderarem, precisamos de mecanismos que possam restringir o mal uso dessas ferramentas.
